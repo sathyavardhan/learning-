@@ -12,7 +12,7 @@
 
 <target name="compile" depends="clean">
 <echo>compile block executed </echo>
-<javac srcdir="D:/Devops Training/java files" destdir="java files" />
+<javac srcdir="D:/Devops Training/java files" destdir="D:/Devops Training/java files" />
 </target>
 
 <target name="run" depends="compile">
