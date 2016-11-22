@@ -1,8 +1,8 @@
 <?xml version="1.0"?>
 <project name ="orianeng" default="jar">
 
-<target name="info">
-<echo>info block executed </echo>
+<target name="jar">
+<echo>jar block executed </echo>
 <echo>this file is added into workspace</echo>
 </target>
 </project>
